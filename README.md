@@ -1,4 +1,6 @@
-Bu proje, Android Studio kullanılarak Xml ve Java kodları ile geliştirilmiş basit bir mesajlaşma uygulamasıdır. Kullanıcılar, birbirleriyle metin mesajları gönderebilir ve alabilirler. Uygulama, Firebase Realtime Database ve Firebase Authentication kullanarak mesajları depolar ve kullanıcı kimlik doğrulamasını sağlar.
+Android-Mobil-Uygulama
+
+Bu proje, Android Studio kullanılarak Xml ve Java kodları ile geliştirilmiş basit bir mesajlaşma uygulamasıdır. Kullanıcılar, birbirleriyle metin mesajları gönderebilir ve alabilirler. Uygulama, Firebase Realtime Database ve Firebase Authentication kullanarak mesajları depolar ve kullanıcı kimlik doğrulamasını sağlar. 
 
 Özellikler
 
